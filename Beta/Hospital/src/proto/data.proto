@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+message position {
+    int32 id = 1;
+    string name = 2;
+    string power = 3;
+}
+
+
+message common
+{
+    map<string,int32> Int =1;
+    map<string,string> Str =2;
+    map<string,double> Dou =3;
+    map<string,float> Flo =4;
+
+}

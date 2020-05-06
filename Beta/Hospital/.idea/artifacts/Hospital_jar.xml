@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Hospital:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hospital_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Hospital.jar">
+        <element id="module-output" name="Hospital" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/mysql-connector-java-5.1.38.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/protobuf-java-3.5.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/pinyin4j-2.5.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/jaxen-1.1.6.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/jxl-2.6.12.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/dom4j-2.1.0.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/jdatepicker-2.0.3.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/tools.jar" />
+    </root>
+  </artifact>
+</component>

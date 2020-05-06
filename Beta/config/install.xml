@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install>
+    <dir path="C:\Program Files\Hospital\config"/>
+    <dir path="C:\Program Files\Hospital\images"/>
+    <dir path="C:\Program Files\Hospital\lib"/>
+    <file path="C:\Program Files\Hospital\lib\Hospital.jar"/>
+    <file path="C:\Program Files\Hospital\config\frame.xml"/>
+    <file path="C:\Program Files\Hospital\config\install.xml"/>
+    <file path="C:\Program Files\Hospital\config\log.xml"/>
+    <file path="C:\Program Files\Hospital\config\user.xml"/>
+    <file path="C:\Program Files\Hospital\images\logo.png"/>
+    <file path="C:\Program Files\Hospital\lib\dom4j-2.1.0.jar"/>
+    <file path="C:\Program Files\Hospital\lib\jaxen-1.1.6.jar"/>
+    <file path="C:\Program Files\Hospital\lib\jdatepicker-2.0.3.jar"/>
+    <file path="C:\Program Files\Hospital\lib\jxl-2.6.12.jar"/>
+    <file path="C:\Program Files\Hospital\lib\mysql-connector-java-5.1.38.jar"/>
+    <file path="C:\Program FilesHospital\lib\pinyin4j-2.5.0.jar"/>
+    <file path="C:\Program Files\Hospital\lib\protobuf-java-3.5.1.jar"/>
+    <file path="C:\Program Files\Hospital\lib\tools.jar"/>
+    <ip path="127.0.0.1"/>
+</install>

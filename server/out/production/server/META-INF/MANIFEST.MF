@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.1.45-bin.jar protobuf-java-3.5.1.ja
+ r mchange-commons-java-0.2.11.jar c3p0-0.9.5.2.jar
+Main-Class: nio.NioPoolServer
+

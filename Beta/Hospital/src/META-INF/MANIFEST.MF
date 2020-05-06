@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-5.1.38.jar protobuf-java-3.5.1.jar pi
+ nyin4j-2.5.0.jar jaxen-1.1.6.jar jxl-2.6.12.jar dom4j-2.1.0.jar jdate
+ picker-2.0.3.jar tools.jar
+Main-Class: logic.Client
+

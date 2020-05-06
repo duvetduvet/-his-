@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <chkSave>
+        <selected>true</selected>
+    </chkSave>
+    <chkAuto>
+        <selected>false</selected>
+    </chkAuto>
+</config>

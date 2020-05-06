@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/server_jar</output-path>
+    <root id="root">
+      <element id="archive" name="server.jar">
+        <element id="module-output" name="server" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-5.1.45-bin" />
+      <element id="library" level="project" name="protobuf-java-3.5.1" />
+      <element id="library" level="project" name="mchange-commons-java-0.2.11" />
+      <element id="library" level="project" name="c3p0-0.9.5.2" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <id>1</id>
+    <position>admin</position>
+    <number>admin</number>
+    <password>123456</password>
+    <state>false</state>
+    <log>true</log>
+</info>
